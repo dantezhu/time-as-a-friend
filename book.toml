@@ -1,0 +1,11 @@
+[book]
+authors = ["dantezhu"]
+language = "en"
+title = "把时间当作朋友"
+src = "."
+
+[output.html]
+additional-css = ["custom/custom.css"]
+
+[output.html.print]
+enable = false
