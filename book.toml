@@ -8,7 +8,7 @@ src = "."
 additional-css = ["custom/custom.css"]
 
 [output.html.print]
-enable = true
+enable = false
 
 # 依赖 HollowMan6/mdbook-pdf
 # mdbook build
